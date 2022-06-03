@@ -1,0 +1,12 @@
+#container {
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+th, td {
+    border: 2px solid;
+    padding-right: 15px;
+    padding-left: 15px;
+}

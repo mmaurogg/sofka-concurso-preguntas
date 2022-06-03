@@ -1,4 +1,9 @@
-export const preguntas = [
+/**
+ * Arreglo con todas las posibles preguntas que pueden salir en el juego
+ * @author Manuel Mauricio Gómez
+ * @version 1.0.0
+ */
+export const arrPreguntas = [
     {
         pregunta: "¿De qué elementos se compone el sol?",
         respuestas: [
